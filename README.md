@@ -1,3 +1,1 @@
-# DIO bootcamp_python
-
-Olá!
+# dio-lab-open-source
