@@ -1,5 +1,6 @@
 # Modelo de sistema bancário
 
+
 menu = """
 [1] Deposito
 [2] Saque
